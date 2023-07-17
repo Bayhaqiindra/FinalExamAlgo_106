@@ -136,7 +136,6 @@ BubbleSort
 Insertion Sort
 
 
-
 /*3. Jelaskan perbedaan mendasar antara algorithma stack dan queue?
 
 Stack adalah struktur data linear yang mengikuti konsep Last - In - First - Out(LIFO), yang berarti elemen terakhir yang dimasukkan ke dalam stack akan menjadi elemen pertama yang dihapus dari stack.
@@ -155,3 +154,4 @@ Pemanggilan fungsi : Ketika kita menggunakan rekursi atau pemanggilan fungsi sec
 Evaluasi ekspresi : Ketika kita perlu mengevaluasi ekspresi matematika yang menggunakan notasi postfix atau infix.Dalam hal ini, stack digunakan untuk menyimpan operator dan operand sementara selama evaluasi.
 Manajemen memori : Ketika kita perlu mengalokasikan dan menghapus memori dalam urutan yang terbalik.Misalnya, ketika kita menggunakan alokasi memori dinamis, data yang dialokasikan akan disimpan dalam stack.Ketika memori tersebut tidak lagi diperlukan, data akan dihapus dari stack.
 Pencarian backtracking : Ketika kita melakukan pencarian dengan strategi backtracking, stack digunakan untuk menyimpan status saat ini atau langkah - langkah yang diambil, sehingga kita dapat kembali ke langkah sebelumnya jika diperlukan.*/
+
